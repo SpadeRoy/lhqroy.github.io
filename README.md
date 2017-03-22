@@ -1,2 +1,0 @@
-# lhqroy.github.io
-hexoBlog
